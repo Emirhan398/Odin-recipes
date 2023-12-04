@@ -1,1 +1,2 @@
-# Odin-recipes
+#In this project named Odin-recipes i will make a recipe site to give you guys various recipes all over the world i hope you like it
+In this project i will use all my knowledge i learned in html for the past week 
